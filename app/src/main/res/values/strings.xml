@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookLibraryApp</string>
+    <string name="book_name">Book Name</string>
+    <string name="select_author">Select Author</string>
+    <string name="new_author">New Author</string>
+    <string name="add_book">Add Book</string>
+    <string name="author_name">Author Name</string>
+    <string name="no_book_added_yet">No book addd yet.</string>
+</resources>
